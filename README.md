@@ -1,5 +1,2 @@
-# ruby-sandox
-
-Use this repository as a workspace to experiment in `irb` terminals, write Ruby codes in the editor, and save your notes to GitHub by committing and pushing.
-
-- Ruby version: `3.2.1`
+# Data Structures, Algorithms and Problem Solving Patterns
+This repository contains my notes on Data Structures and Algorithms. I have also included some problems and their solutions. I have tried to explain the concepts in a simple and easy to understand way.
